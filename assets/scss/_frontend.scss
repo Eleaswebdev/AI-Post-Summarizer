@@ -1,0 +1,27 @@
+.zgs-ai-overview-box {
+  background: var(--zgs-background);
+  border-left: 5px solid var(--zgs-border-color);
+  border-top-left-radius: var(--zgs-border-radius-top);
+  border-top-right-radius: var(--zgs-border-radius-right);
+  border-bottom-right-radius: var(--zgs-border-radius-bottom);
+  border-bottom-left-radius: var(--zgs-border-radius-left);
+  padding-top: var(--zgs-padding-top);
+  padding-right: var(--zgs-padding-right);
+  padding-bottom: var(--zgs-padding-bottom);
+  padding-left: var(--zgs-padding-left);
+  margin-top: var(--zgs-margin-top);
+  margin-right: var(--zgs-margin-right);
+  margin-bottom: var(--zgs-margin-bottom);
+  margin-left: var(--zgs-margin-left);
+}
+
+.zgs-ai-overview-box h2 {
+  color: var(--zgs-title-color);
+  font-size: var(--zgs-title-size);
+  margin-bottom: var(--zgs-title-text-space);
+}
+
+.zgs-summary-list {
+  color: var(--zgs-content-color);
+  font-size: var(--zgs-content-size);
+}
